@@ -1,0 +1,14 @@
+Package: XStringSetViews
+Title: Store Multiple Views on an XStringSet
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Brendan",
+           family = "Furneaux",
+           role = c("aut", "cre"),
+           email = "brendan.furneaux@gmail.com",
+           comment = c(ORCID = "0000-0003-3522-7363"))
+Description: Provide S4 objects which store a set of sequences, along with
+    ranges within each sequence which correspond to (sub)regions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
